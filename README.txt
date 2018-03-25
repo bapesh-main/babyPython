@@ -3,4 +3,4 @@ Many firsts here. First time I've used either Git or Python for an actual projec
 
 Having said that, I'm unsure if my solution for stdin input is what you're expecting.
 
-And the cipher problem would have been a lot more tough if "m" or "n" > 702.
+And the cipher problem would have been a lot more tough if "m" or "n" > 702. Thanks, I guess!
